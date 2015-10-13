@@ -1,0 +1,2 @@
+# Jurubamanji
+O jogo Jurubamanji
