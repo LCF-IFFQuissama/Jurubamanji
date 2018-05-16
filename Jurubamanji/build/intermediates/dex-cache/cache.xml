@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/luizcanf/code/GG/Jurubamanji/Jurubamanji/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e945c29a6a7d7ea42a64d519e89e0dde9ba72521">
+        <dex dex="/home/luizcanf/code/GG/Jurubamanji/Jurubamanji/android/build/intermediates/pre-dexed/release/core-1.0_454fe4d725b266eb3643be06796767c3b7b6eeb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luizcanf/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.8/84024cd60ad6f26370891fbcd17de9f0167e662/gdx-backend-android-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="084024cd60ad6f26370891fbcd17de9f0167e662">
+        <dex dex="/home/luizcanf/code/GG/Jurubamanji/Jurubamanji/android/build/intermediates/pre-dexed/release/gdx-backend-android-1.9.8_a9024f689b365b77bed3e13b51b6e150d1d6551e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luizcanf/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.9.8/6f0497b7958216464101adfb7bdc3a0f7b88d6d3/gdx-box2d-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6f0497b7958216464101adfb7bdc3a0f7b88d6d3">
+        <dex dex="/home/luizcanf/code/GG/Jurubamanji/Jurubamanji/android/build/intermediates/pre-dexed/release/gdx-box2d-1.9.8_cff342e58e7067a27551fa6446a4ba612dd1936a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luizcanf/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.8/a35a0076fbce873f9c2d5a1a1c8066244231bb3c/gdx-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a35a0076fbce873f9c2d5a1a1c8066244231bb3c">
+        <dex dex="/home/luizcanf/code/GG/Jurubamanji/Jurubamanji/android/build/intermediates/pre-dexed/release/gdx-1.9.8_85becbdefdbb396b43144a7790b12de9b0a34bb8.jar" />
+    </item>
+
+</items>
